@@ -1,4 +1,4 @@
-# Shine Yim 👋
+### Shine Yim 👋
 
 <!--
 **sh7ning/sh7ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
