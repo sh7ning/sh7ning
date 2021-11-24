@@ -1,4 +1,4 @@
-### Shine Yim 👋
+### Hey 👋, I'm sh7ning
 
 <!--
 **sh7ning/sh7ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
