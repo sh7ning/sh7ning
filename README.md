@@ -1,4 +1,21 @@
-### Hey 👋, I'm sh7ning
+<h1>:robot: Hey!</h1>
+
+I'm Shine Yim.
+
+<p>
+  <img src="https://skillicons.dev/icons?theme=light&i=go,php,laravel,js,jquery,react,vue,python" />
+  <br />
+  <img src="https://skillicons.dev/icons?theme=light&i=linux,docker,git,nginx,mysql,postgres,redis" />
+</p>
+
+## About me
+
+-  👨‍💻 software developer
+
+## Connect with me
+<p>
+  <a href="https://t.me/tree6b"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
 <!--
 **sh7ning/sh7ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
