@@ -4,7 +4,7 @@ I'm Shine Yim.
 
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?theme=light&i=go,php,laravel,js,jquery,react,vue,python,swift" />
+    <img src="https://skillicons.dev/icons?theme=light&i=go,php,laravel,js,jquery,react,vue,ts,python,swift" />
   </a>
   <br />
   <a href="#">
