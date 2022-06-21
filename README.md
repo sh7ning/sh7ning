@@ -16,6 +16,12 @@ I'm Shine Yim.
 
 -  👨‍💻 software developer
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh7ning&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh7ning&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh7ning&theme=github)
+
+
 ## Connect with me
 <p>
   <a href="https://t.me/tree6b"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
