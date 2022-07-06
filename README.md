@@ -8,7 +8,7 @@ I'm Shine Yim.
   </a>
   <br />
   <a href="#">
-    <img src="https://skillicons.dev/icons?theme=light&i=linux,docker,git,nginx,redis,mysql,postgres,mongodb" title="linux,docker,git,nginx,mysql,postgres,redis" />
+    <img src="https://skillicons.dev/icons?theme=light&i=linux,docker,git,nginx,redis,mysql,postgres,mongodb" title="linux,docker,git,nginx,redis,mysql,postgres,mongodb" />
   </a>
 </p>
 
